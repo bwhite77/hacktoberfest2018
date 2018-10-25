@@ -1816,3 +1816,9 @@ Place: India
 About: Student
 Programming Language: C, C++, Java, Python
 Email: saloni.gupta63@gmail.com
+
+Name: Ben White (https://github.com/bwhite77)
+Place: Chicago
+About: CS student who enjoys programming
+Programming Langauges: Java, C#, C++, Python
+Email: benjaminwhite77@gmail.com
